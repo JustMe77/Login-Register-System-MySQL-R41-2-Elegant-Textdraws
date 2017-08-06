@@ -14,7 +14,7 @@
 @ Login/Register TextDraws by JustMe.77
 @ Jeffry's Standard Version (keine TextDraws): https://goo.gl/XgWgpb
 @ JustMe.77's Standard Version (nur TextDraw Design): https://goo.gl/dzRNcT
-@ Aktuelle Version (Login/Register + TextDraws): < Insert Link here> ) 
+@ Aktuelle Version (Login/Register + TextDraws): https://github.com/JustMe77/Login-Register-System-MySQL-R41-2-Elegant-Textdraws/tree/master/German ) 
 
 
 */
