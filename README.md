@@ -7,8 +7,9 @@ This is a basic Login/Register System based on the latest MySQL Version (R41-2) 
 # Requirements
 
 MySQL Plugin & Include
-
 * https://github.com/pBlueG/SA-MP-MySQL/releases/tag/R41-3
+
+TextDraw Layouts
 * Login/Register Include https://github.com/JustMe77/Login-Register-System-MySQL-R41-2-Elegant-Textdraws
 
 
