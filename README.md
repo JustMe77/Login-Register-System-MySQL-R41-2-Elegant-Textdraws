@@ -1,6 +1,6 @@
 # Information
 
-This is a basic Login/Register System based on the latest MySQL Version (R41-2) with unique TextDraws which make it look very great!
+This is a basic Login/Register System based on the latest MySQL Version (R41-3) with unique TextDraws which make it look very great!
 
 
 
