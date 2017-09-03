@@ -8,13 +8,13 @@
                             __/ |                                                           
                            |___/                                                            
 
-@ Titel: Login / Register System [MySQL R41-2] + Elegant Textdraws
+@ Titel: Login / Register System [MySQL R41-3] + Elegant Textdraws
 @ Version: 2.0.0
 @ Login/Register System by Jeffry
 @ Login/Register TextDraws by JustMe.77
 @ Jeffry's Default Version (keine TextDraws): https://goo.gl/XgWgpb
 @ JustMe.77's Default Version (nur TextDraw Design): https://goo.gl/dzRNcT
-@ Current Version (Login/Register + TextDraws): https://github.com/JustMe77/Login-Register-System-MySQL-R41-2-Elegant-Textdraws/tree/master/Englisch ) 
+@ Current Version (Login/Register + TextDraws): https://github.com/JustMe77/Login-Register-System-MySQL-R41-3-Elegant-Textdraws/tree/master/Englisch ) 
 
 
 */
